@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> An expo demonstration app for the Medium article : [Atomic Architecture for React native](test.fr)
+> An expo demonstration app for the Medium article : [Atomic Architecture for React native](https://skiwa.medium.com/architecture-atomique-pour-react-native-d8f2535810cd)
 
 ## Install
 
