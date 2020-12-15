@@ -8,6 +8,10 @@
 
 > An expo demonstration app for the Medium article : [Atomic Architecture for React native](https://skiwa.medium.com/architecture-atomique-pour-react-native-d8f2535810cd)
 
+<div align="center" style="height: 20%">
+  <a align="center" href="https://skiwa.medium.com/architecture-atomique-pour-react-native-d8f2535810cd"><img src="https://miro.medium.com/max/1400/1*U0pCzjX-ultIDeaqXXQDEw.png"></a>
+</div>
+
 ## Install
 
 ```sh
